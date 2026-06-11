@@ -27,7 +27,10 @@
   },
   "resolutions": {
     "semver": "^7.5.4",
-    "ansi-regex": "^5.0.1"
+    "ansi-regex": "^5.0.1",
+    "serialize-javascript": "^7.0.5",
+    "underscore": "^1.13.8",
+    "postcss": "^8.5.10"
   },
   "browserslist": {
     "production": [
